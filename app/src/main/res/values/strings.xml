@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">درگاه پیامک تعمیرجا</string>
+    <string name="channel_name">درگاه پیامک</string>
+    <string name="notif_starting">در حال شروع…</string>
+
+    <string name="title">ارسال پیامک CRM از طریق این گوشی</string>
+    <string name="hint_site">آدرس سایت (مثال: https://tamirja.ir)</string>
+    <string name="hint_key">کلید (از صفحه «پیامک از طریق گوشی» در CRM)</string>
+    <string name="hint_interval">فاصله بررسی (ثانیه، حداقل ۱۵)</string>
+    <string name="label_sim">سیم‌کارتِ ارسال‌کننده</string>
+    <string name="sim_default">پیش‌فرض گوشی</string>
+    <string name="start_on_boot">پس از روشن شدن گوشی خودکار شروع شود</string>
+
+    <string name="save">ذخیره</string>
+    <string name="test">آزمایش اتصال</string>
+    <string name="permissions">اجازه‌ها</string>
+    <string name="battery">استثنا از بهینه‌سازی باتری</string>
+    <string name="start">شروع</string>
+    <string name="stop">توقف</string>
+
+    <string name="status_running">وضعیت: در حال اجرا ✓</string>
+    <string name="status_stopped">وضعیت: متوقف</string>
+    <string name="log_title">گزارش (تازه‌ترین در بالا)</string>
+
+    <string name="saved">ذخیره شد</string>
+    <string name="need_settings">ابتدا آدرس سایت و کلید را وارد کنید</string>
+    <string name="need_sms_permission">اجازه ارسال پیامک لازم است</string>
+    <string name="testing">در حال آزمایش…</string>
+    <string name="test_ok">اتصال برقرار است ✓</string>
+    <string name="test_failed">اتصال ناموفق</string>
+    <string name="permissions_ok">همه اجازه‌ها داده شده است</string>
+    <string name="battery_ok">برنامه از بهینه‌سازی باتری مستثنا است</string>
+</resources>
